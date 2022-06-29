@@ -11,4 +11,4 @@ En este repository, tu encontrarás todo el material utilizado en el curso. Enco
 
 Aquí encontrarás todas las presentaciones relacionadas al curso. ¡Siéntete libre de revisar el material cuando quieras!
 
-- [Unit 1: Introducción a Flutter](https://view.genial.ly/62bb260623d2fd0011c291d9/presentation-fluttercourse-ui01introduction)
+- [Unit 01: Introducción a Flutter](https://view.genial.ly/62bb260623d2fd0011c291d9/presentation-fluttercourse-ui01introduction)
