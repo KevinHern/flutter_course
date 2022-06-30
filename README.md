@@ -7,6 +7,13 @@ Son temas muy básicos y lo mejor es que son fáciles y hasta intuitivos despué
 
 En este repository, tu encontrarás todo el material utilizado en el curso. Encontrarás las presentaciones y también un demo con códio comentado que puedes correr en Flutter ya sea en Desktop, Web o Móbil.
 
+# Demo
+
+Se te proporcionará el código y también un demo.
+
+- [Código aquí](https://github.com/KevinHern/flutter_course_demo)
+- [Demo aquí](https://kevinhern.github.io/flutter_course_demo/)
+
 # Presentaciones
 
 Aquí encontrarás todas las presentaciones relacionadas al curso. ¡Siéntete libre de revisar el material cuando quieras!
