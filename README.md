@@ -22,3 +22,4 @@ Aquí encontrarás todas las presentaciones relacionadas al curso. ¡Siéntete l
 
 - [Lección 01: Introducción a Flutter](https://view.genial.ly/62bb260623d2fd0011c291d9/presentation-fluttercourse-ui01introduction)
 - [Lección 02: Introducción a Dart](https://view.genial.ly/62bba176f40f700010b4406f/presentation-fluttercourse-ui01dartintroduction)
+- [Lección 03: Widgets & State Management](https://view.genial.ly/62bde6dc1d2a91001107ca9c/presentation-fluttercourse-u01widgets)
