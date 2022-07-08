@@ -11,7 +11,7 @@ En este repository, tu encontrarás todo el material utilizado en el curso. Enco
 
 Se te proporcionará el código y también un demo.
 
-- [Código aquí](https://github.com/KevinHern/flutter_course_demo)
+- El código del demo se encuentra en este repositorio.
 - [Demo aquí](https://kevinhern.github.io/flutter_course_demo/)
 
 # Presentaciones
@@ -24,3 +24,7 @@ Aquí encontrarás todas las presentaciones relacionadas al curso. ¡Siéntete l
 - [Lección 02: Introducción a Dart](https://view.genial.ly/62bba176f40f700010b4406f/presentation-fluttercourse-ui01dartintroduction)
 - [Lección 03: Widgets & State Management](https://view.genial.ly/62bde6dc1d2a91001107ca9c/presentation-fluttercourse-u01widgets)
 - [Lección 04: Archivos YAML, Metadata y Packages](https://view.genial.ly/62be7ac28ca4d4001122cbd8/presentation-fluttercourse-u01packages)
+
+## Unidad 02:
+- [Lección 05: Dart Avanzado](https://view.genial.ly/62c70d4dfce56c0018615d2c/presentation-fluttercourse-u0201advanceddart)
+- [Lección 06: Formularios](https://view.genial.ly/62bba176f40f700010b4406f/presentation-fluttercourse-ui01dartintroduction)
