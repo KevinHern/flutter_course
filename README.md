@@ -27,4 +27,4 @@ Aquí encontrarás todas las presentaciones relacionadas al curso. ¡Siéntete l
 
 ## Unidad 02:
 - [Lección 05: Dart Avanzado](https://view.genial.ly/62c70d4dfce56c0018615d2c/presentation-fluttercourse-u0201advanceddart)
-- [Lección 06: Formularios](https://view.genial.ly/62bba176f40f700010b4406f/presentation-fluttercourse-ui01dartintroduction)
+- [Lección 06: Formularios](https://view.genial.ly/62c738542c7af200113c8f29/presentation-fluttercourse-u0202forms)
