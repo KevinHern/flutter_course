@@ -28,3 +28,5 @@ Aquí encontrarás todas las presentaciones relacionadas al curso. ¡Siéntete l
 ## Unidad 02:
 - [Lección 05: Dart Avanzado](https://view.genial.ly/62c70d4dfce56c0018615d2c/presentation-fluttercourse-u0201advanceddart)
 - [Lección 06: Formularios](https://view.genial.ly/62c738542c7af200113c8f29/presentation-fluttercourse-u0202forms)
+- [Lección 07: Gestión de Rutas](https://view.genial.ly/62c8369e7e49a50012af09ec/presentation-fluttercourse-u0203-routemanagement)
+- [Lección 08: Theming](https://view.genial.ly/62c862371fa1e1001058bedc/presentation-fluttercourse-u0204-theming)
