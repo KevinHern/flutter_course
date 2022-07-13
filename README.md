@@ -20,14 +20,14 @@ Aquí encontrarás todas las presentaciones relacionadas al curso. ¡Siéntete l
 
 ## Unidad 01:
 
-- [Lección 01: Introducción a Flutter](https://view.genial.ly/62bb260623d2fd0011c291d9/presentation-fluttercourse-ui01introduction)
-- [Lección 02: Introducción a Dart](https://view.genial.ly/62bba176f40f700010b4406f/presentation-fluttercourse-ui01dartintroduction)
-- [Lección 03: Widgets & State Management](https://view.genial.ly/62bde6dc1d2a91001107ca9c/presentation-fluttercourse-u01widgets)
-- [Lección 04: Archivos YAML, Metadata y Packages](https://view.genial.ly/62be7ac28ca4d4001122cbd8/presentation-fluttercourse-u01packages)
+- [Lección 01: Introducción a Flutter](https://view.genial.ly/62bb260623d2fd0011c291d9/presentation-fluttercourse-ui0101-introduction)
+- [Lección 02: Introducción a Dart](https://view.genial.ly/62bba176f40f700010b4406f/presentation-fluttercourse-ui0102-dartintroduction)
+- [Lección 03: Widgets & State Management](https://view.genial.ly/62bde6dc1d2a91001107ca9c/presentation-fluttercourse-u0103-widgets)
+- [Lección 04: Archivos YAML, Metadata y Packages](https://view.genial.ly/62be7ac28ca4d4001122cbd8/presentation-fluttercourse-u0104-packages)
 
 ## Unidad 02:
 - [Lección 05: Dart Avanzado](https://view.genial.ly/62c70d4dfce56c0018615d2c/presentation-fluttercourse-u0201advanceddart)
-- [Lección 06: Formularios](https://view.genial.ly/62c738542c7af200113c8f29/presentation-fluttercourse-u0202forms)
+- [Lección 06: Formularios + Gestures](https://view.genial.ly/62c738542c7af200113c8f29/presentation-fluttercourse-u0202-formsgestures)
 - [Lección 07: Gestión de Rutas](https://view.genial.ly/62c8369e7e49a50012af09ec/presentation-fluttercourse-u0203-routemanagement)
 - [Lección 08: Theming](https://view.genial.ly/62c862371fa1e1001058bedc/presentation-fluttercourse-u0204-theming)
 
