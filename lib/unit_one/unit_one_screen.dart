@@ -86,6 +86,19 @@ class UnitOneMenu extends StatelessWidget {
               ),
               Card(
                 child: ListTile(
+                  leading: const Icon(Icons.image),
+                  title: Text(
+                    "Assets",
+                    style: Theme.of(context).textTheme.bodyText1,
+                  ),
+                  onTap: () => Navigator.of(context).pushNamed('/i-assets'),
+                ),
+              ),
+              const SizedBox(
+                height: spacing,
+              ),
+              Card(
+                child: ListTile(
                   leading: const Icon(Icons.developer_board),
                   title: Text(
                     "Example",

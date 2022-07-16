@@ -15,9 +15,9 @@ class UnitThreeMenu extends StatelessWidget {
       title: "Unit Three Menu",
       items: [
         UnitItem(
-            title: "Theming",
-            routeName: "iii-theming",
-            iconData: Icons.color_lens),
+            title: "App Deployment",
+            routeName: "iii-deployment",
+            iconData: Icons.send),
         UnitItem(
             title: "Basic Networking",
             routeName: "iii-network",

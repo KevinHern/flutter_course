@@ -20,11 +20,21 @@ class UnitTwoMenu extends StatelessWidget {
             routeName: "ii-form",
             iconData: Icons.view_list_outlined),
         UnitItem(
-            title: "Assets", routeName: "utwoasset", iconData: Icons.image),
+            title: "Gestures",
+            routeName: "ii-gestures",
+            iconData: Icons.gesture),
+        UnitItem(
+            title: "Theming",
+            routeName: "ii-theming",
+            iconData: Icons.color_lens),
         UnitItem(
             title: "Route Management",
             routeName: "ii-route",
             iconData: Icons.navigation),
+        UnitItem(
+            title: "Testing",
+            routeName: "ii-testing",
+            iconData: Icons.fact_check_rounded),
         UnitItem(
             title: "Example",
             routeName: "ii-example-eshop",

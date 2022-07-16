@@ -1,6 +1,9 @@
 // Basic Imports
 import 'package:flutter/material.dart';
 import 'package:flutter_course_demo/models/unit_two/shop_item.dart';
+import 'package:flutter_course_demo/unit_three/deployment_screen.dart';
+import 'package:flutter_course_demo/unit_two/gestures_demo.dart';
+import 'package:flutter_course_demo/unit_two/testing_screen.dart';
 
 // Screens
 import 'main_screen.dart';
@@ -14,14 +17,14 @@ import 'package:flutter_course_demo/unit_one/example.dart';
 
 // Unit Two Screens
 import 'package:flutter_course_demo/unit_two/form.dart';
-import 'package:flutter_course_demo/unit_two/assets_inclusion.dart';
+import 'package:flutter_course_demo/unit_one/assets_inclusion.dart';
 import 'package:flutter_course_demo/unit_two/routing.dart';
 import 'package:flutter_course_demo/unit_two/example/eshop.dart';
 import 'package:flutter_course_demo/unit_two/example/cart_shop.dart';
 
 // Unit Three Screens
 import 'package:flutter_course_demo/unit_three/basic_network.dart';
-import 'package:flutter_course_demo/unit_three/theming.dart';
+import 'package:flutter_course_demo/unit_two/theming.dart';
 import 'package:flutter_course_demo/unit_three/futures.dart';
 import 'package:flutter_course_demo/unit_three/example.dart';
 
@@ -277,6 +280,13 @@ class MyApp extends StatelessWidget {
               settings: settings,
               duration: const Duration(seconds: 1),
             );
+          case "/i-assets":
+            return PageTransition(
+              child: const AssetsInclusion(),
+              type: PageTransitionType.fade,
+              settings: settings,
+              duration: const Duration(seconds: 1),
+            );
           case "/i-example":
             return PageTransition(
               child: const UnitOneExample(),
@@ -293,9 +303,16 @@ class MyApp extends StatelessWidget {
               settings: settings,
               duration: const Duration(seconds: 1),
             );
-          case "/ii-asset":
+          case "/ii-gestures":
             return PageTransition(
-              child: const AssetsInclusion(),
+              child: const GesturesScreen(),
+              type: PageTransitionType.fade,
+              settings: settings,
+              duration: const Duration(seconds: 1),
+            );
+          case "/ii-theming":
+            return PageTransition(
+              child: const ThemingScreen(),
               type: PageTransitionType.fade,
               settings: settings,
               duration: const Duration(seconds: 1),
@@ -303,6 +320,13 @@ class MyApp extends StatelessWidget {
           case "/ii-route":
             return PageTransition(
               child: const RouteManagement(),
+              type: PageTransitionType.fade,
+              settings: settings,
+              duration: const Duration(seconds: 1),
+            );
+          case "/ii-testing":
+            return PageTransition(
+              child: const TestingScreen(),
               type: PageTransitionType.fade,
               settings: settings,
               duration: const Duration(seconds: 1),
@@ -325,9 +349,9 @@ class MyApp extends StatelessWidget {
             );
 
           // Unit Three Screens
-          case "/iii-theming":
+          case "/iii-deployment":
             return PageTransition(
-              child: const ThemingScreen(),
+              child: const DeploymentScreen(),
               type: PageTransitionType.fade,
               settings: settings,
               duration: const Duration(seconds: 1),
