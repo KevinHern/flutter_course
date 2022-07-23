@@ -1,4 +1,4 @@
-# Bienvenido al Curso de Flutter!
+# ¡Bienvenido al Curso de Flutter!
 
 En este curso, tu aprenderás lo básico sobre Flutter para que puedas empezar a utilizar esta herramienta para crear aplicaciones para tu interés personal o poner a disponibilidad tus habilidades en el mercado para tener ganancias.
 
@@ -36,3 +36,9 @@ Aquí encontrarás todas las presentaciones relacionadas al curso. ¡Siéntete l
 - [Lección 10: Deployment](https://view.genial.ly/62cc8f445b0e96001122abe5/presentation-fluttercourse-u0301-deployment)
 - [Lección 11: Programación Asíncrona](https://view.genial.ly/62ca319584cbd500183aff65/presentation-fluttercourse-u0302-asynchronousprogramming)
 - [Lección 12: Networking Básico](https://view.genial.ly/62cccc4cc8259b00123a4b40/presentation-fluttercourse-u0303-basicnetworking)
+
+# Proyecto
+
+El proyecto consiste en realizar una aplicación de E-Commerce para Android y para Web. Es un proyecto guiado y está dividido en 7 partes. Te invito a que visites este [repositorio](https://github.com/KevinHern/flutter_course_lab/tree/main) donde encontrarás más detalladas las instrucciones.
+
+¡Te deseo mucha suerte en tu proyecto!
