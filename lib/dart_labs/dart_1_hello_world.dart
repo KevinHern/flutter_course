@@ -53,8 +53,8 @@ void main() {
   
   print("\n");
   
-  // Numeric Variables
-  print("Numeric Variables");
+  // Boolean Variables
+  print("Boolean Variables");
   
   bool theAcceptedVariable = true;
   bool theRejectedVariable = false;
